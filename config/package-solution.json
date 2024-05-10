@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "on-before-serialize-issue-client-side-solution",
+    "id": "c20aca25-254f-42f3-879e-6250bb39787a",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "on-before-serialize-issue description"
+      },
+      "longDescription": {
+        "default": "on-before-serialize-issue description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "on-before-serialize-issue Feature",
+        "description": "The feature that activates elements of the on-before-serialize-issue solution.",
+        "id": "dafc709e-bed7-4103-a353-4b30bbff5312",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/on-before-serialize-issue.sppkg"
+  }
+}
